@@ -1,0 +1,30 @@
+$color-main:#462681;
+ 
+
+
+* {
+	margin: 0;
+	padding: 0;
+	 
+}
+*,
+*:after ,
+*:before {
+	box-sizing: border-box;
+}
+button{
+
+}
+ 
+html {
+    box-sizing: border-box;
+    font-size: 80%; // 1rem = 10px, 10px/16px = 62.5%
+	 
+}
+body{
+	font-family:Myriad Pro Regular;
+	background-color:black;  
+ }
+button{
+	border-style: none;
+}
